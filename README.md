@@ -12,11 +12,11 @@ Use the `rails-perftest` gem to write performance tests.  There is a generator t
 
 * [Benchmarking Rails](https://www.youtube.com/watch?v=eojUBB_8V_4&feature=youtu.be)
 
-Watch the above video to learn more about using the `rails-perftest` gem.  How does the author of the video, Ryan Bates, determine which methods are causing the bottle necks in the code, and then how does he go about making these changes?
+Watch the above video to learn more about using the `rails-perftest` gem.  How does the author of the video, Ryan Bates, determine which methods are causing the bottlenecks in the code, and then how does he go about making these changes?
 
 ### Performance Profiling
 
-Another tool to use with an easy to use interface is called New Relic.  New Relic does require a signup on its webpage, however many of the features are free.  
+Another tool with an easy-to-use interface is called New Relic.  New Relic does require a signup on its webpage, however many of the features are free.  
 
 Similar to in our performance tests, New Relic allows us to drill down to find bottlenecks in performance.  To see how to use and install New Relic, you can take a look at the following resources: 
 
