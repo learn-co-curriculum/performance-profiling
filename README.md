@@ -6,7 +6,7 @@ To protect against this, we employ performance profiling before making any chang
 
 ### Performance Testing
 
-One way in which we can keep a watchful eye on performance is to write a tests.  
+One way in which we can keep a watchful eye on performance is to write tests.  
 
 Use the `rails-perftest` gem to write performance tests.  There is a generator that allows you to get set up.  You may also need to install the `ruby-prof` gem and the `test:unit` gem.  To run the performance test, you can run `test:benchmark`.  
 
